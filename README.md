@@ -22,7 +22,7 @@
 1. LogQL 사용하기 (1) Log Queries
 2. LogQL 사용하기 (2) Metric Queries
 3. LogQL 사용하기 (3) 기타 기능
-4. LogQL 사용하기 (5) Best Practice
+4. LogQL 사용하기 (4) Best Practice
 
 ### 4부 로키 클라이언트
 
