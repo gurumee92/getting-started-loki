@@ -1,5 +1,7 @@
 # 구르미의 Grafana Loki 시작하기
 
+![logo](./logo.png)
+
 ## 목차
 
 ### 1부 로키란 무엇인가?
